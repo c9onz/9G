@@ -1,9 +1,7 @@
 Christine Gonzalez
-![image](https://github.com/c9onz/9G/blob/main/Asset%2030.png)
-
 <figure>
     <img src="https://github.com/c9onz/9G/blob/main/Asset%2030.png"
-         alt="Christine-Gonzalez">
+         alt="Christine-Gonzalez" width="300" height="200">
 </figure>
 
 <!---
